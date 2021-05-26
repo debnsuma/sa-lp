@@ -1,3 +1,4 @@
+# Initial setup 
 0. Setup a virtual environment 
     $ python --version
 
